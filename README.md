@@ -12,15 +12,14 @@ I’m a Mechanical Engineer turned Machine‐Learning enthusiast. My interests a
 
 👯 **I’m looking to collaborate on**
 - Open‑source physics‑informed ML libraries  
-- Next‑gen microfluidic device simulators  
-- Data‑driven fluid mechanics benchmarks  
+- Data‑driven fluid mechanics benchmarks
+- AI automation in industry
 
 💬 **Ask me about**
-Machine Learning, Computational Fluid Dynamics, Lattice Boltzmann Method, Physics‑Informed Neural Nets.
+Machine Learning, Computational Fluid Dynamics, Lattice Boltzmann Method, Physics‑Informed Neural Nets, Computer Vision.
 
 📫 **How to reach me**  
 - 📧 alirexasamari@gmail.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/alireza-samari-255819159)  
-- 🌐 [My Portfolio & App Demos](https://designcoflow.streamlit.app/)
+- 🔗 [LinkedIn](https://linkedin.com/in/alireza-samari-255819159)
 
 ⚡ **Fun fact**: When I’m not coding I’m playing electric guitar.
