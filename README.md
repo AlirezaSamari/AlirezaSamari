@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I’m Alireza 👋
 
-<!--
-**AlirezaSamari/AlirezaSamari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Mechanical Engineer turned Machine‐Learning enthusiast. My interests are numerical simulations & physics-based ML.
 
-Here are some ideas to get you started:
+🧑‍💻 I love coding in Python and I am familliar with SQL, C++ and Fortran. Some technologies I like to use:
+• PyTorch • JAX • Scikit-Learn • Streamlit • NumPy • Matplotlib • SciPy ....
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **I’m learning**
+- Advanced **Deep Learning & Scientific Computing** frameworks (JAX, PyTorch)  
+- Scalable **CFD** and **numerical methods** pipelines  
+- **Web app** deployment for scientific tools
+
+👯 **I’m looking to collaborate on**
+- Open‑source physics‑informed ML libraries  
+- Next‑gen microfluidic device simulators  
+- Data‑driven fluid mechanics benchmarks  
+
+💬 **Ask me about**
+Machine Learning, Computational Fluid Dynamics, Lattice Boltzmann Method, Physics‑Informed Neural Nets.
+
+📫 **How to reach me**  
+- 📧 alirexasamari@gmail.com  
+- 🔗 [LinkedIn](https://linkedin.com/in/alireza-samari-255819159)  
+- 🌐 [My Portfolio & App Demos](https://designcoflow.streamlit.app/)
+
+⚡ **Fun fact**: When I’m not coding I’m playing electric guitar.
