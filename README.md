@@ -22,4 +22,4 @@ Machine Learning, Computational Fluid Dynamics, Lattice Boltzmann Method, Physic
 - 📧 alirexasamari@gmail.com  
 - 🔗 [LinkedIn](https://linkedin.com/in/alireza-samari-255819159)
 
-⚡ **Fun fact**: When I’m not coding I’m playing electric guitar.
+**Fun fact**: When I’m not immersed in coding or research, I enjoy playing the electric guitar 🤘
