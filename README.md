@@ -1,25 +1,11 @@
 ## Hi, I’m Alireza 👋
 
-I’m a Mechanical Engineer turned Machine‐Learning enthusiast. I do numerical simulations, physics-based ML, and (occasionally) computer vision.
+Mechanical Engineer & **Scientific ML researcher** working at the intersection of **AI, physics, and computational fluid dynamics**.
 
-🧑‍💻 I love coding in Python and I am familliar with SQL, C++ and Fortran. Some technologies I like to use:
-• PyTorch • JAX • Scikit-Learn • Streamlit • NumPy • Matplotlib • SciPy ....
+I build **physics-informed ML, neural operators, differentiable simulations, and numerical methods** for complex physical systems.
 
-🌱 **I’m learning**
-- Advanced **Deep Learning & Scientific Computing** frameworks (JAX, PyTorch)  
-- Scalable **CFD** and **numerical methods** pipelines  
-- **Web app** deployment for scientific tools
+**Python · PyTorch · JAX · CFD · LBM · UQ · SciML**
 
-👯 **I’m looking to collaborate on**
-- Open‑source physics‑informed ML libraries  
-- Data‑driven fluid mechanics benchmarks
-- AI automation in industry
+I’m interested in building open-source tools that make scientific computing faster, smarter, and more accessible.
 
-💬 **Ask me about**
-Machine Learning, Computational Fluid Dynamics, Lattice Boltzmann Method, Physics‑Informed Neural Nets, Computer Vision.
-
-📫 **How to reach me**  
-- 📧 alirexasamari@gmail.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/alireza-samari-255819159)
-
-**Fun fact**: When I’m not immersed in coding or research, I enjoy playing the electric guitar :)
+When I’m not behid the cosed, then im hide behind my guitar.
